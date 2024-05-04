@@ -2,7 +2,7 @@
 
 ---
 
-#Prime Health Insurance Management System
+# Prime Health Insurance Management System
 
 Welcome to the Health Insurance Management System, a web-based application designed to manage health insurance policies, customers, and related data. This system provides an admin panel with CRUD (Create, Read, Update, Delete) operations for efficient management of health insurance information.
 
